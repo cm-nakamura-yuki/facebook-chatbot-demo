@@ -1,0 +1,10 @@
+{
+  "name": "facebook-demo",
+  "description": "",
+  "runtime": "nodejs8.10",
+  "handler": "index.handler",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::XXXXXXXXX:role/facebook-demo_lambda_function",
+  "environment": {}
+}
